@@ -1,2 +1,4 @@
 "get user data"
 "process data"
+"done success"
+"Authentication required"
